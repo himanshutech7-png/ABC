@@ -30,7 +30,7 @@ body {
   filter: blur(0.1vmin);
   background: 
         linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), /* Darker overlay */
-        url('image.jpeg'); /* Background image */
+        url('WhatsApp Image 2026-02-04 at 21.03.00.jpeg.jpeg'); /* Background image */
   background-size: cover; /* Cover the entire page */
   background-position: center; /* Center the image */
   background-repeat: no-repeat; /* Prevent tiling */}
